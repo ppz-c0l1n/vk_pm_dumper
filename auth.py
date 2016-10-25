@@ -12,4 +12,4 @@ def vk_login(login, password):
      return browser
 
 browser = vk_login('login', 'pass')
-# 
+
